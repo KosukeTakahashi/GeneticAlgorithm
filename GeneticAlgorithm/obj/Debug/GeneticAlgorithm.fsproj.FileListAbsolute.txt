@@ -1,0 +1,13 @@
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.XML
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\FSharp.Core.dll
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\System.ValueTuple.dll
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\FSharp.Core.xml
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\ja\FSharp.Core.resources.dll
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\LibGeneticAlgorithm.dll
+c:\users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\LibGeneticAlgorithm.pdb
+C:\Users\孝輔\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.fsprojResolveAssemblyReference.cache
